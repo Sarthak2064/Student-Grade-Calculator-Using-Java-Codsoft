@@ -1,5 +1,4 @@
 # Student-Grade-Calculator-Using-Java-Codsoft
-# Number-Game-Codsoft
 
 ### Prerequisites:
 1. **Java Development Kit (JDK):** Ensure you have JDK installed on your system. You can download it from the Oracle website or use OpenJDK, an open-source alternative.
